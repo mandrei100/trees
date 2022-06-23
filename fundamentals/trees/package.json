@@ -27,6 +27,6 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^24.9.0",
-    "jsdom": "^15.1.1"
+    "jsdom": "^16.5.0"
   }
 }
